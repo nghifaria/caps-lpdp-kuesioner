@@ -1,0 +1,14 @@
+/* Sembunyikan Header dan Footer default dari Streamlit untuk kesan profesional */
+header {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+/* Kustomisasi gaya jika diperlukan (Spacing, Border Radius) */
+.stButton>button {
+    border-radius: 6px;
+    font-weight: 600;
+}

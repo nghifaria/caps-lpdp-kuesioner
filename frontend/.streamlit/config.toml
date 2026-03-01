@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#F97316" # Aksen Oranye Elegan
+backgroundColor = "#FFFFFF" # Background Bersih Terang
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#1F2937"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+runOnSave = true
